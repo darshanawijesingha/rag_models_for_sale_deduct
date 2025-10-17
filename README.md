@@ -28,7 +28,7 @@ To perform the inventory analysis, the following data points are required for ea
 ### Example Analysis
 Based on a previous analysis of items at risk of stock-out.
 
-![Might-out-of-stock-tomorrow-morning-or-already-oos](Might out of stock tomorrow morning or already oos.png)
+![Might-out-of-stock-tomorrow-morning-or-already-oos](Might.png)
 
 
 
