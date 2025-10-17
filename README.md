@@ -28,7 +28,7 @@ To perform the inventory analysis, the following data points are required for ea
 ### Example Analysis
 Based on a previous analysis of items at risk of stock-out.
 
-![Might-out-of-stock-tomorrow-morning-or-already-oos](https://Might-out-of-stock-tomorrow-morning-or-already-oos.png)
+![Might-out-of-stock-tomorrow-morning-or-already-oos](Might-out-of-stock-tomorrow-morning-or-already-oos.png)
 
 
 
@@ -43,7 +43,7 @@ This analysis compares the current period's sales against a historical benchmark
 ### Top Performers: Sales Gains
 This list highlights products that are significantly outperforming their historical average.
 
-![Sales Difference Chart](https://sales_difference.png)
+![Sales Difference Chart](sales_difference.png)
 
 **Analysis of Top Gains:**
 
